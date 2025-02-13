@@ -1,5 +1,5 @@
 
-# **Custom Compiler - Lexical and Syntax Analysis**
+# **C++ Compiler - Lexical and Syntax Analysis**
 
 ## **Overview**
 This project is a **custom compiler** implemented using **Python and Tkinter**, designed for **lexical analysis, syntax validation, and memory management**. It provides an interactive **GUI-based compiler** that processes code, identifies tokens, checks syntax, and reports errors.
