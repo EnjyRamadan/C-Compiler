@@ -29,6 +29,11 @@ pip install tkinter numpy pillow opencv-python
 ```bash
 git clone https://github.com/EnjyRamadan/C-Compiler.git
 ```
+## **How to Run**
+
+```bash
+python main.py
+```
 
 ## **How to Use**
 1. **Enter Code**: Type or paste your code into the GUI text editor.
