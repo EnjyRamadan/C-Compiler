@@ -2,7 +2,7 @@ from GUI import CompilerApp
 import tkinter as tk
 import math
 
-
+ 
 class Scanner:
     def __init__(self, app) -> None:
         self.arr_dict = {}
